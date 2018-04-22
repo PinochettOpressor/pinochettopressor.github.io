@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pinochett Opressor</title>
+	<atom:link href="https://pinochettopressor.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>https://pinochettopressor.github.io/</link>
+	<description>Launching Communists of Helicopters Since 1973.</description>
+	<lastBuildDate>Fri, 13 Apr 2018 04:04:22 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+
+<image>
+	<url>https://pinochettopressor.github.io/wp-content/uploads/2017/03/FAV-ICON001-pinochettopressor.us_.to_-150x150.png</url>
+	<title>Pinochett Opressor</title>
+	<link>https://pinochettopressor.github.io/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Bolsonaro é eleito o político mais honesto do mundo!</title>
+		<link>https://pinochettopressor.github.io/2017/03/13/bolsonaro-eleito-politico-mais-honesto-do-mundo/</link>
+		<pubDate>Mon, 13 Mar 2017 03:10:56 +0000</pubDate>
+		<dc:creator><![CDATA[Pinochett Opressor]]></dc:creator>
+				<category><![CDATA[Notícias]]></category>
+		<category><![CDATA[@PinochettOP]]></category>
+		<category><![CDATA[#Bolsonaro]]></category>
+
+		<guid isPermaLink="false">http://pinochettopressor.us.to/?p=1</guid>
+		<description><![CDATA[A Fundação Transparência Política Internacional apontou o deputado federal Jair Bolsonaro como o político mais honesto do mundo. Barack Obama]]></description>
+		</item>
+		<item>
+		<title>Memes</title>
+		<link>https://pinochettopressor.github.io/2016/08/18/memes/</link>
+		<pubDate>Thu, 18 Aug 2016 09:16:55 +0000</pubDate>
+		<dc:creator><![CDATA[Pinochett Opressor]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[@PinochettOP]]></category>
+
+		<guid isPermaLink="false">http://pinochettopressor.us.to/?p=27</guid>
+		<description><![CDATA[]]></description>
+		</item>
+		<item>
+		<title>Bolsonaro publica vídeo Zuando Fidel Castro!</title>
+		<link>https://pinochettopressor.github.io/2016/08/18/23/</link>
+		<pubDate>Thu, 18 Aug 2016 07:54:15 +0000</pubDate>
+		<dc:creator><![CDATA[Pinochett Opressor]]></dc:creator>
+				<category><![CDATA[Notícias]]></category>
+		<category><![CDATA[@PinochettOP]]></category>
+		<category><![CDATA[#Bolsonaro]]></category>
+		<category><![CDATA[#Direita]]></category>
+
+		<guid isPermaLink="false">http://pinochettopressor.us.to/?p=23</guid>
+		<description><![CDATA[Em meio a mensagens de pesar de políticos brasileiros pela morte Fidel Castro, aos 90 anos, uma postagem destoou. O]]></description>
+		</item>
+		<item>
+		<title>Protegido: Tem uma pagina de Direita e quer se proteger da censura do FB ?</title>
+		<link>https://pinochettopressor.github.io/2016/08/18/20/</link>
+		<pubDate>Thu, 18 Aug 2016 07:42:59 +0000</pubDate>
+		<dc:creator><![CDATA[Pinochett Opressor]]></dc:creator>
+				<category><![CDATA[Notícias]]></category>
+		<category><![CDATA[@PinochettOP]]></category>
+		<category><![CDATA[#Bolsonaro]]></category>
+		<category><![CDATA[#Censura]]></category>
+		<category><![CDATA[#Direita]]></category>
+		<category><![CDATA[#Facebook]]></category>
+
+		<guid isPermaLink="false">http://pinochettopressor.us.to/?p=20</guid>
+		<description><![CDATA[Não há resumo por ser um post protegido.]]></description>
+		</item>
+		<item>
+		<title>Site em Construção</title>
+		<link>https://pinochettopressor.github.io/2016/08/17/site-em-construcao/</link>
+		<pubDate>Thu, 18 Aug 2016 00:50:12 +0000</pubDate>
+		<dc:creator><![CDATA[Pinochett Opressor]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[@PinochettOP]]></category>
+
+		<guid isPermaLink="false">http://pinochettopressor.us.to/?p=12</guid>
+		<description><![CDATA[Video Teste]]></description>
+		</item>
+	</channel>
+</rss>
