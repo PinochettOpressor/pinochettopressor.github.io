@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Pinochett Opressor</title>
-	<atom:link href="https://pinochettopressor.github.io/feed/" rel="self" type="application/rss+xml" />
-	<link>https://pinochettopressor.github.io/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Launching Communists of Helicopters Since 1973.</description>
 	<lastBuildDate>Fri, 13 Apr 2018 04:04:22 +0000</lastBuildDate>
 	<language>pt-BR</language>
@@ -19,15 +19,15 @@
 	
 
 <image>
-	<url>https://pinochettopressor.github.io/wp-content/uploads/2017/03/FAV-ICON001-pinochettopressor.us_.to_-150x150.png</url>
+	<url>./../wp-content/uploads/2017/03/FAV-ICON001-pinochettopressor.us_.to_-150x150.png</url>
 	<title>Pinochett Opressor</title>
-	<link>https://pinochettopressor.github.io/</link>
+	<link>./../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Bolsonaro é eleito o político mais honesto do mundo!</title>
-		<link>https://pinochettopressor.github.io/2017/03/13/bolsonaro-eleito-politico-mais-honesto-do-mundo/</link>
+		<link>./../2017/03/13/bolsonaro-eleito-politico-mais-honesto-do-mundo/index.html</link>
 		<pubDate>Mon, 13 Mar 2017 03:10:56 +0000</pubDate>
 		<dc:creator><![CDATA[Pinochett Opressor]]></dc:creator>
 				<category><![CDATA[Notícias]]></category>
@@ -39,7 +39,7 @@
 		</item>
 		<item>
 		<title>Memes</title>
-		<link>https://pinochettopressor.github.io/2016/08/18/memes/</link>
+		<link>./../2016/08/18/memes/index.html</link>
 		<pubDate>Thu, 18 Aug 2016 09:16:55 +0000</pubDate>
 		<dc:creator><![CDATA[Pinochett Opressor]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
@@ -50,7 +50,7 @@
 		</item>
 		<item>
 		<title>Bolsonaro publica vídeo Zuando Fidel Castro!</title>
-		<link>https://pinochettopressor.github.io/2016/08/18/23/</link>
+		<link>./../2016/08/18/23/index.html</link>
 		<pubDate>Thu, 18 Aug 2016 07:54:15 +0000</pubDate>
 		<dc:creator><![CDATA[Pinochett Opressor]]></dc:creator>
 				<category><![CDATA[Notícias]]></category>
@@ -63,7 +63,7 @@
 		</item>
 		<item>
 		<title>Protegido: Tem uma pagina de Direita e quer se proteger da censura do FB ?</title>
-		<link>https://pinochettopressor.github.io/2016/08/18/20/</link>
+		<link>./../2016/08/18/20/index.html</link>
 		<pubDate>Thu, 18 Aug 2016 07:42:59 +0000</pubDate>
 		<dc:creator><![CDATA[Pinochett Opressor]]></dc:creator>
 				<category><![CDATA[Notícias]]></category>
@@ -78,7 +78,7 @@
 		</item>
 		<item>
 		<title>Site em Construção</title>
-		<link>https://pinochettopressor.github.io/2016/08/17/site-em-construcao/</link>
+		<link>./../2016/08/17/site-em-construcao/index.html</link>
 		<pubDate>Thu, 18 Aug 2016 00:50:12 +0000</pubDate>
 		<dc:creator><![CDATA[Pinochett Opressor]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
