@@ -12,7 +12,7 @@
 	<atom:link href="https://pinochettopressor.github.io/tag/pinochettop/feed/" rel="self" type="application/rss+xml" />
 	<link>https://pinochettopressor.github.io/</link>
 	<description>Launching Communists of Helicopters Since 1973.</description>
-	<lastBuildDate>Wed, 25 Jul 2018 21:14:16 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 24 Oct 2018 21:44:55 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -75,3 +75,14 @@
 		</item>
 	</channel>
 </rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 44/51 objects using disk
+Page Caching using disk: enhanced 
+Content Delivery Network via cdn.pinochettopressor.eu.org
+Database Caching using disk
+
+Served from: pinochettopressor.eu.org @ 2018-11-08 19:12:29 by W3 Total Cache
+-->
